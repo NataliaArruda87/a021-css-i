@@ -1,0 +1,32 @@
+main {
+    color: white;
+    font-family: Helvetica;
+}
+
+.bloco {
+    display: block;
+    margin: 10px;
+    padding: 10px 20px 20px 10px;
+    width: 20rem;
+
+}
+
+#bloco-1 {
+    background-color: orange;
+    border: 0.5rem solid coral ;
+}
+
+#bloco-2 {
+    background-color: green;
+    border: 0.5rem solid greenyellow ;
+}
+
+#bloco-3 {
+    background-color: darkgreen;
+    border: 0.5rem dashed green ;
+}
+
+#bloco-4 {
+    background-color: rgba(255, 60, 0, 0.932);
+    border: 0.5rem dashed coral ;
+}
